@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+    color:white;
+}
+.menu {
+    text-align:center;
+    background-color:gray;
+    overflow:hidden;
+    padding:10px 17px;
+    margin:10px;
+}
+.menu a {   
+float:center;
+        color:white;
+        font-size: 17px;
+        text-align:center;
+        text-decoration: None;
+}
+
+.menu a:hover {
+    background-color:antiquewhite;
+    color:black;
+}
+.menu active {
+    background-color:darkcyan;
+    color:white;
+}
+
+h1,h2 {
+    text-align:center;
+    color:gray;
+}
